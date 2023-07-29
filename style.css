@@ -1,0 +1,39 @@
+.main-text{
+    color:rgb(255, 0, 0);
+    font-size: 20px; 
+    font-weight: 900;
+    font-style: italic;
+}
+
+.simple-text{
+    color:rgb(86, 0, 0);
+}
+.simple-text{
+    color: rgb(86, 0, 0);
+}
+
+.body-style {
+    background-color:rgb(87, 201, 253);
+    text-align: center;
+    background-image: url(images/voler-dlya-krolikov-9.jpg);
+}
+
+.h2-style{
+    color: rgb(13, 8, 43);
+    font-weight: bold;
+    font-style: inherit;
+}
+
+.ul-style{
+    color: rgb(175, 0, 149);
+    font-style: italic;
+}
+
+.li-class{
+    color: rgb(64, 0, 255);
+    font-style: initial;
+}
+
+.img-class {
+    width: 600px;
+}
